@@ -1,5 +1,11 @@
 # FFmpeg-alapú Online Stream Audio & Network Analyzer
 
+<div align="center">
+
+[![Stream Audio & Network Analyzer](https://img.youtube.com/vi/46NLGDUwsW8/maxresdefault.jpg)](https://youtu.be/46NLGDUwsW8)
+
+</div>
+
 **Nyelv / Language:** [Magyar](#magyar) | [English](#english)
 
 ---
